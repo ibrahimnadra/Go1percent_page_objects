@@ -8,7 +8,7 @@ var rewardCommands = {
     //sign in
     .sendKeys('@usernameField', 'testadmin')
     .sendKeys('@passwordField', 'testadmin')
-    // .click('@signInButton') 
+    .click('@signInButton') 
     .assert.urlContains('my-dashboard', 'Dashboard is opened');
     },
 
