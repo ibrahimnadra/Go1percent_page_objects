@@ -1,5 +1,6 @@
 {
   "name": "@ibrahimnadra/go1percent_page_objects",
+  "type": "module",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -17,5 +18,10 @@
   },
   "publishConfig": {
     "@ibrahimnadra:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@types/nightwatch": "^2.3.30"
   }
 }
+
+
