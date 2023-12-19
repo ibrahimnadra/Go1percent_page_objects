@@ -1,6 +1,5 @@
 {
   "name": "@ibrahimnadra/go1percent_page_objects",
-  "type": "module",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
